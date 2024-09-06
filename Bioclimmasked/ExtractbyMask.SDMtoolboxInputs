@@ -1,0 +1,11 @@
+2024-09-06 17:05:57.482000
+Input Parameters 
+E:\BioClim\Bioclimmasked/*.tif
+Input Folder: E:\BioClim
+ESRI Grid yes or noFalse 
+Output Folder: E:\BioClim\Bioclimmasked 
+Output Raster Type: TIFF (.tif) 
+Mask Raster: E:\AUS_STATES_2010.shp 
+Prefix:  
+Suffix: 
+Rasters input: 

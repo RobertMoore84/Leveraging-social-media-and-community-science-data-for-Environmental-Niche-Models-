@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240906</CreaDate><CreaTime>17052000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20240906" Time="170520">ExtractByMask E:\BioClim\bio_australia_19.tif E:\AUS_STATES_2010.shp E:\BioClim\Bioclimmasked\bio_australia_19.tif</Process></lineage></DataProperties></Esri></metadata>

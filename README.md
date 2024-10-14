@@ -38,7 +38,7 @@ This repository is organized into the following folders and files:
 ### Scripts:
 - **`LossGainCalculations.R`**: Script to calculate and visualize gains and losses in species' predicted ranges between different scenarios.
 - **`SDModelling.R`**: Script to perform Species Distribution Modelling (SDM) using MaxEnt in R. This script processes the occurrence points and environmental data, trains the MaxEnt models, and outputs the predictions.
-- **`SchoenersD.R`**: Script to calculate Schoener's D, a metric to quantify the overlap of predicted species ranges between two datasets (e.g., ALA vs. ALA + Flickr, ALA vs. ALA + iNaturalist).
+- **`SchoeD.R`**: Script to calculate Schoener's D, a metric to quantify the overlap of predicted species ranges between two datasets (e.g., ALA vs. ALA + Flickr, ALA vs. ALA + iNaturalist).
 
 ---
 
@@ -72,7 +72,7 @@ This repository is organized into the following folders and files:
 **Dependencies**:  
 - `dismo`, `terra`, `sdm`, `parallel`.
 
-### 3. `SchoenersD.R`
+### 3. `SchoeD.R`
 **Purpose**:  
 - Calculates Schoener's D and Warren's I to measure the niche overlap between different datasets (ALA, Flickr, iNaturalist).
 - Provides a quantitative assessment of how much overlap exists between the ecological niches predicted by the models.
@@ -116,7 +116,7 @@ The occurrence points and environmental data are stored in the respective folder
   - Use `LossGainCalculations.R` to visualize the differences between the models.
 
 ### Niche Overlap Calculation:
-- Use the `SchoenersD.R` script to calculate Schoener's D and Warren's I to assess the niche overlap between the different models.
+- Use the `SchoeD.R` script to calculate Schoener's D and Warren's I to assess the niche overlap between the different models.
 
 ---
 

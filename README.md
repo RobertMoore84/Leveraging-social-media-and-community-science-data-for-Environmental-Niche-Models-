@@ -93,7 +93,7 @@ This repository is organized into the following folders and files:
 The occurrence points and environmental data are stored in the respective folders:
 
 ### **Bioclimmasked/**:
-- Contains `.tif` files for bioclimatic variables masked to the study region (Australia).
+- Contains `.tif` files for bioclimatic variables masked to the study region (Australia). These are raster files and contain information within the image itself. 
 
 ### **Presence Points/**:
 - Contains CSV files for the species occurrence points from:

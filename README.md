@@ -1,4 +1,5 @@
-# Leveraging Social Media and Community Science Data for Environmental Niche Models (ENMs)
+# Leveraging Social Media and Community Science Data for Environmental Niche Models (ENMs): a case study with native Australian bees
+Ecological Informatics
 
 ## Project Overview
 
